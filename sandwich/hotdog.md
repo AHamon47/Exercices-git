@@ -2,4 +2,3 @@
 Pain
 Saucisse
 Sauce
-Fromage
